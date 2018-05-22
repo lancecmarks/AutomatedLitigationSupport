@@ -14,7 +14,7 @@ Reasons for using this process can include but not limited to easily dividing la
 
 2. In the SecureZIP application, open the File menu and click on Options.
 
-![securezip_options](https://i.imgur.com/wTFZ3x7.png)
+![securezip_options](https://i.imgur.com/oafjcqC.png)
 
 3. Expand the Compression entry in the left side navigation area and select Advanced.
 4. In the field labeled "Split size:" type in the number 3891200.  We have to use this custom number because the McAfee Endpoint Security will add extra data during the burning process.
