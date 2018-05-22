@@ -9,6 +9,7 @@ number: 4100
 Reasons for using this process can include but not limited to easily dividing large files that do not have apparent divisions, e.g. Phone Extractions, or archiving large case files onto the minimum number of DVDs.
 
 1. Find SecureZIP either by using the Windows 10 Search Box or alphabetically under All Apps in the Windows Start Menu
+![windows-start-menu](https://imgure.com/IzVIACK)
 2. In the SecureZIP application, open the File menu and click on Options.
 3. Expand the Compression entry in the left side navigation area and select Advanced.
 4. In the field labeled "Split size:" type in the number 3891200.  We have to use this custom number because the McAfee Endpoint Security will add extra data during the burning process.
