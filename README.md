@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Docster
+![docster preview](https://raw.githubusercontent.com/DigitalMindCH/docster-jekyll-theme/gh-pages/img/docster_preview.jpg)
 
-You can use the [editor on GitHub](https://github.com/lancecmarks/AutomatedLitigationSupport/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## simple and easy
+That's how we would describe working with docster.
+We first created it, when we needed an index file for a theme documentation. jekyll offered collections which made the organization into smaller chunks of documentation optimal. Especially because the collections did not generate outputs for themselves.
+This theme was created to generate an organized output. It does not require any plugins, which means you can host on GitHub without much effort.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features
+* Nice syntax highlighting
+* dynamic multi-level navigation
+* Sass stylesheets
 
-### Markdown
+### Documentation
+We don't believe in delivering Code without explanation. Especially not for a documentation theme. So the [Demo](http://digitalmind.ch/themes/docster-jekyll-theme/demo/) doubles as the documentation for Docster, that should help you set up your own docs without any problems.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lancecmarks/AutomatedLitigationSupport/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Feedback, Wishes, Problems
+If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.
+If you just want to give us a general feedback feel free to [contact us!](http://digitalmind.ch/contact/)
