@@ -17,7 +17,13 @@ Reasons for using this process can include but not limited to easily dividing la
 ![securezip_options](https://i.imgur.com/oafjcqC.png)
 
 3. Expand the Compression entry in the left side navigation area and select Advanced.
+
+![securezip_advanced](https://i.imgur.com/kYLAgYY.png)
+
 4. In the field labeled "Split size:" type in the number 3891200.  We have to use this custom number because the McAfee Endpoint Security will add extra data during the burning process.
+
+![securezip_bytes](https://i.imgur.com/s2UStmH.png)
+
 5. Click on the Add Files icon on the left side of the "Home" toolbar ribbon.
 6. In the popup window, navigate to files or folders you want to add, highlight and click "OK" button.  Repeat this step for multiple files in different locations.
 7. Choose the location to save the ZIP files. Optionally you can change the name if desired. Click on "Save" button.
