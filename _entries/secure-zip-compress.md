@@ -6,8 +6,6 @@ parent-id: secure-zip
 number: 4100
 ---
 
-### 10 Step Process How to Compress Voluminous Data and Split into Custom DVD Sized Pieces
-
 Reasons for using this process can include but not limited to easily dividing large files that do not have apparent divisions, e.g. Phone Extractions, or archiving large case files onto the minimum number of DVDs.
 
 1. Find SecureZIP either by using the Windows 10 Search Box or alphabetically under All Apps in the Windows Start Menu
