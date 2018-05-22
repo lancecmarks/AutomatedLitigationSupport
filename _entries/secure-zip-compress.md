@@ -10,7 +10,7 @@ Reasons for using this process can include but not limited to easily dividing la
 
 1. Find SecureZIP either by using the Windows 10 Search Box or alphabetically under All Apps in the Windows Start Menu
 
-![windows-start-menu](https://imgur.com/IzVlACK)
+![windows_start_menu](https://i.imgur.com/IzVlACK.png)
 
 2. In the SecureZIP application, open the File menu and click on Options.
 3. Expand the Compression entry in the left side navigation area and select Advanced.
