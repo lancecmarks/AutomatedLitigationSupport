@@ -33,6 +33,15 @@ Reasons for using this process can include but not limited to easily dividing la
 ![securezip-select](https://i.imgur.com/oXIvzqq.png)
 
 7. Choose the location to save the ZIP files. Optionally you can change the name if desired. Click on "Save" button.
-8. An encryption popup window will appear, the passphrase is optional.  If you do not want to enter a passphrase click on the "Cancel" button.
-9. The program will begin the compression process; depending on the total size of the files and the computer, this step can take an hour or more.  In my testing a 10 GB folder will take about an hour on one of the faster office machines.
+
+![securezip-file](https://i.imgur.com/YKT28PR.png)
+
+8. An encryption popup window will appear, the passphrase is optional.  If you do not want to enter a passphrase click on the "Skip" button.
+
+![securezip-password](https://i.imgur.com/xuLiTIT.png)
+
+9. The program will begin the compression process; depending on the total size of the files and the computer, this step can take an hour or more.  In my testing a 10 GB folder will take about 10 minutes on one of the faster office machines.
+
 10. Upon completion if the original was over 4GB there will be at least two files.  For the 10 GB folder, there are three files. Each piece's filename ends with the .z##, where ## is the two digit number for the piece starting at 01.  The last file will contain the remaining data and have file name ending with .zip.
+
+![securezip-end](https://i.imgur.com/PMiXpfN.png)
